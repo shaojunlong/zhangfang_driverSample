@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleTest", "Test\ConsoleTest.vcxproj", "{00734511-0CEA-4ABF-B23E-B9A5D030B0E7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DriverDevA", "DriverDevA\DriverDevA.vcxproj", "{CFE3A9E1-0604-4753-809C-31E48B6E837C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DriverDevB", "DriverDevB\DriverDevB.vcxproj", "{D048A917-9673-42E5-A6C5-3A507268FE51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Check Edition|x86 = Check Edition|x86
+		Check Editon|x86 = Check Editon|x86
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Template|x86 = Template|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00734511-0CEA-4ABF-B23E-B9A5D030B0E7}.Check Edition|x86.ActiveCfg = Release|Win32
+		{00734511-0CEA-4ABF-B23E-B9A5D030B0E7}.Check Edition|x86.Build.0 = Release|Win32
+		{00734511-0CEA-4ABF-B23E-B9A5D030B0E7}.Check Editon|x86.ActiveCfg = Release|Win32
+		{00734511-0CEA-4ABF-B23E-B9A5D030B0E7}.Check Editon|x86.Build.0 = Release|Win32
+		{00734511-0CEA-4ABF-B23E-B9A5D030B0E7}.Debug|x86.ActiveCfg = Debug|Win32
+		{00734511-0CEA-4ABF-B23E-B9A5D030B0E7}.Debug|x86.Build.0 = Debug|Win32
+		{00734511-0CEA-4ABF-B23E-B9A5D030B0E7}.Release|x86.ActiveCfg = Release|Win32
+		{00734511-0CEA-4ABF-B23E-B9A5D030B0E7}.Release|x86.Build.0 = Release|Win32
+		{00734511-0CEA-4ABF-B23E-B9A5D030B0E7}.Template|x86.ActiveCfg = Release|Win32
+		{00734511-0CEA-4ABF-B23E-B9A5D030B0E7}.Template|x86.Build.0 = Release|Win32
+		{CFE3A9E1-0604-4753-809C-31E48B6E837C}.Check Edition|x86.ActiveCfg = Check Edition|Win32
+		{CFE3A9E1-0604-4753-809C-31E48B6E837C}.Check Edition|x86.Build.0 = Check Edition|Win32
+		{CFE3A9E1-0604-4753-809C-31E48B6E837C}.Check Editon|x86.ActiveCfg = Check Edition|Win32
+		{CFE3A9E1-0604-4753-809C-31E48B6E837C}.Check Editon|x86.Build.0 = Check Edition|Win32
+		{CFE3A9E1-0604-4753-809C-31E48B6E837C}.Debug|x86.ActiveCfg = Check Edition|Win32
+		{CFE3A9E1-0604-4753-809C-31E48B6E837C}.Debug|x86.Build.0 = Check Edition|Win32
+		{CFE3A9E1-0604-4753-809C-31E48B6E837C}.Release|x86.ActiveCfg = Check Edition|Win32
+		{CFE3A9E1-0604-4753-809C-31E48B6E837C}.Release|x86.Build.0 = Check Edition|Win32
+		{CFE3A9E1-0604-4753-809C-31E48B6E837C}.Template|x86.ActiveCfg = Template|Win32
+		{CFE3A9E1-0604-4753-809C-31E48B6E837C}.Template|x86.Build.0 = Template|Win32
+		{D048A917-9673-42E5-A6C5-3A507268FE51}.Check Edition|x86.ActiveCfg = Check Editon|Win32
+		{D048A917-9673-42E5-A6C5-3A507268FE51}.Check Edition|x86.Build.0 = Check Editon|Win32
+		{D048A917-9673-42E5-A6C5-3A507268FE51}.Check Editon|x86.ActiveCfg = Check Editon|Win32
+		{D048A917-9673-42E5-A6C5-3A507268FE51}.Check Editon|x86.Build.0 = Check Editon|Win32
+		{D048A917-9673-42E5-A6C5-3A507268FE51}.Debug|x86.ActiveCfg = Template|Win32
+		{D048A917-9673-42E5-A6C5-3A507268FE51}.Debug|x86.Build.0 = Template|Win32
+		{D048A917-9673-42E5-A6C5-3A507268FE51}.Release|x86.ActiveCfg = Template|Win32
+		{D048A917-9673-42E5-A6C5-3A507268FE51}.Release|x86.Build.0 = Template|Win32
+		{D048A917-9673-42E5-A6C5-3A507268FE51}.Template|x86.ActiveCfg = Template|Win32
+		{D048A917-9673-42E5-A6C5-3A507268FE51}.Template|x86.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EE5CC79-0710-4048-894C-8CE14D4BE53C}
+	EndGlobalSection
+EndGlobal
